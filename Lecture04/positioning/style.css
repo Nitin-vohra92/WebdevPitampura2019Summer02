@@ -11,7 +11,7 @@ div {
     position: relative;
     top: -100px;
     right: 100px;
-} */
+} 
 
 /* #div3 {
     position: fixed;
@@ -19,11 +19,11 @@ div {
     right: 20px;
 } */
 
-/* #div4 {
+ #div4 {
     position: sticky;
     top: 10px;
     left: 60%;
-} */
+} 
 
 #div0 {
     position: relative;

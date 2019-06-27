@@ -5,11 +5,11 @@
     text-align: center;
     display: inline-block;
 }
-
+/*
 div:active {
     display: none;
 }
-
+*/
 ul ul {
     display: none;
 }
